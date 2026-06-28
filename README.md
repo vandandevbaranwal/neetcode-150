@@ -1,7 +1,7 @@
-# NeetCode 150 — DSA Solutions
+# NeetCode 250 — DSA Solutions
 
 A structured collection of Data Structures & Algorithms solutions following the
-NeetCode 150 roadmap, written in Python.
+NeetCode 250 roadmap, written in Python.
 
 ## About
 
